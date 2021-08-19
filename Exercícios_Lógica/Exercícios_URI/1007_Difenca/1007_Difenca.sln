@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1007_Difenca", "1007_Difenca\1007_Difenca.csproj", "{DBAFA2E2-6942-4A99-AFC2-2C1C843A50CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAFA2E2-6942-4A99-AFC2-2C1C843A50CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAFA2E2-6942-4A99-AFC2-2C1C843A50CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAFA2E2-6942-4A99-AFC2-2C1C843A50CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAFA2E2-6942-4A99-AFC2-2C1C843A50CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6C75B7-94B2-47EF-A51E-0EBB32FB40AF}
+	EndGlobalSection
+EndGlobal
